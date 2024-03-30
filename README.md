@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Hosted On Netify
+
+Open [https://my-drive-project.netlify.app/](https://my-drive-project.netlify.app/) to view it in browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
